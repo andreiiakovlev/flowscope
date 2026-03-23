@@ -10,3 +10,5 @@ The predictive engine relies on extracting signal from highly noisy, cross-secti
 Feature Lift Prediction: Maps visual features (e.g., has glasses, something soft in the frame) to the residual variance. The model predicts the expected view multiplier (uplift) for out-of-sample posts, outputting point estimates with rigorous 95% prediction intervals.
 
 **Co-founders:** Andrei Iakovlev, Alexander Lobashev, Dmitry Magas'.
+
+**Contact us:** contact@flowscope.ai
