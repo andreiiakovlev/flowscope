@@ -1,4 +1,4 @@
-# flowscope.ai
+# flowscope.ai ([link](https://github.com/andreiiakovlev/flowscope/tree/main))
 
 ## Overview
 Flowscope is an analytical pipeline designed to predict visual micro-trends and estimate feature-level marginal performance lift in social media ecosystems. Our engine isolates the expected impact of specific visual features from baseline entity variance.
